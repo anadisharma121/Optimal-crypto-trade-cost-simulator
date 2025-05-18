@@ -1,6 +1,6 @@
 # Model and Algorithm Documentation
 
-## 1. Almgren-Chriss Market Impact Model
+##  Almgren-Chriss Market Impact Model
 
 ### Purpose
 
@@ -30,7 +30,7 @@ The Almgren-Chriss model provides a framework for optimal trade execution that m
 
 ---
 
-## 2. Slippage Estimation Model
+##  Slippage Estimation Model
 
 ### Purpose
 
@@ -49,7 +49,7 @@ To estimate additional cost due to execution inefficiency using a regression app
 
 ---
 
-## 3. Maker/Taker Participation Prediction
+##  Maker/Taker Participation Prediction
 
 ### Purpose
 
