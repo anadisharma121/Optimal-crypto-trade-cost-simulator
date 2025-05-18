@@ -1,1 +1,0 @@
-# go_quant_assignment
