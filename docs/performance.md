@@ -77,6 +77,16 @@ graph TD
 
 ---
 
+## Performance Benchmarks (approx)
+
+| Metric               | Value (avg) |
+| -------------------- | ----------- |
+| Data processing time | 25–40 ms    |
+| UI update latency    | \~50 ms     |
+| End-to-End latency   | <100 ms     |
+
+---
+
 ## Performance Summary
 
 | Aspect             | Strategy Used                    | Impact               |
@@ -84,4 +94,7 @@ graph TD
 | Latency            | Lightweight backend and async    | Fast UI response     |
 | Scalability        | Stateless design + Pyngrok       | Easy to deploy       |
 | Computational Load | Dynamic programming & regression | Efficient evaluation |
+
+
+
 
